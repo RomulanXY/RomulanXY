@@ -7,6 +7,8 @@
   * Python
   * PHP
   * Laravel
+  * Linux
+  * Git
   * Typescript
   * React
   * Vue
