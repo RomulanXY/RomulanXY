@@ -21,8 +21,8 @@
   * Firebase
   * Websockets
 
-- 🔭 I’m currently working on working on a a renting plantform.
-- 👯 I’m looking to collaborate on available related to my skills
+- 🔭 I’m currently working on a renting plantform.
+- 👯 I’m looking to collaborate on available projects related to my skills
 - 📫 How to reach me: 
   * twitter : twitter.com/romulanxy
   * email : obadeyi04@gmail.com
