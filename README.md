@@ -2,10 +2,19 @@
 
 - 👋 Hi, I'm Seyi Obadeyi
 - ✍ I use
-  * JavaScript * Node js * Python * PHP * Laravel * Linux * Git * Typescript * React * Vue * WordPress
+  * JavaScript/TypeScript
+  * Node js (Express)
+  * Python (Django)
+  * PHP (Laravel/WordPress)
+  * Linux and Git (Version-side)
+  * React/Next.js
+  * Vue/NUxt.js
   
 - Extras
-  * Mongodb * MySQL * Firebase * Kubernetes
+  * Mongodb 
+  * MySQL/PostgreSQL 
+  * Firebase 
+  * Kubernetes
 
 - 🔭 I’m currently working on an online marketplace.
 - 👯 Send an email. Let's have a chat about projects.
