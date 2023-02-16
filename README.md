@@ -1,20 +1,22 @@
 ### Hi there 👋
 
-- 👋 Hi, I'm Seyi Obadeyi
+- 👋 Hi, I'm Oluwaseyi Obadeyi
 - ✍ I use
   * JavaScript/TypeScript
-  * Node js (Express)
+  * React/Next.js
+  * Vue/Nuxt.js
+  * Node.js (Express)
   * Python (Django)
   * PHP (Laravel/WordPress)
-  * Linux and Git (Version-side)
-  * React/Next.js
-  * Vue/NUxt.js
+  * Linux
+  * Git
   
 - Extras
-  * Mongodb 
+  * MongoDB
   * MySQL/PostgreSQL 
   * Firebase 
   * Kubernetes
+  * Docker
 
 - 🔭 I’m currently working on an online marketplace.
 - 👯 Send an email. Let's have a chat about projects.
