@@ -8,7 +8,7 @@
 
 ### About Me
 
-I am a passionate and dedicated Senior Full-Stack Developer with a strong background in web technologies, backend development, and cloud infrastructure. My expertise spans multiple programming languages, frameworks, and tools, allowing me to deliver robust and scalable solutions. The pursuit of clean code, efficient architecture, and seamless user experiences drives me. 
+I am a passionate and dedicated Software Engineer with a strong background in web technologies, backend development, and cloud infrastructure. My expertise spans multiple programming languages, frameworks, and tools, allowing me to deliver robust and scalable solutions. The pursuit of clean code, efficient architecture, and seamless user experiences drives me. 
 
 - 🌍 **Location:** UTC+1
 - 📧 **Email:** [obadeyi04@gmail.com](mailto:obadeyi04@gmail.com)
