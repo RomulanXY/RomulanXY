@@ -143,18 +143,18 @@ I am a passionate and dedicated Senior Full-Stack Developer with a strong backgr
 
 ### **Other Skills**
 ![Locust](https://img.shields.io/badge/Locust-%23000000.svg?style=for-the-badge&logo=locust&logoColor=white)
-![Collaboration](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
-![Communication](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
-![Problem-solving](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
-![Adaptability](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
-![Creativity](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
-![Attention to Detail](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
-![Time Management](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
-![Teamwork](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
-![Leadership](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Collaboration](https://img.shields.io/badge/Collaboration-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Problem-solving](https://img.shields.io/badge/Problem-solving-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Adaptability](https://img.shields.io/badge/Adaptability-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Creativity](https://img.shields.io/badge/Creativity-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Attention to Detail](https://img.shields.io/badge/Attention%20to%20Detail-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Time Management](https://img.shields.io/badge/Time%20Management-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Teamwork](https://img.shields.io/badge/Teamwork-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Leadership](https://img.shields.io/badge/Leadership-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
 ![Logging](https://img.shields.io/badge/Logging-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
 ![Scalability](https://img.shields.io/badge/Scalability-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
-![Security](https://img.shields.io/badge/Security-%23111.svg?style=for-the-badge&logo=none&logoColor=white)
+![Security](https://img.shields.io/badge/Security-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
 
 ---
