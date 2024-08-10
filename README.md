@@ -185,16 +185,3 @@ Let's discuss how we can collaborate on exciting projects or simply have a chat 
 ![Seyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulanxy&show_icons=true&hide_border=true)
 ![Seyi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romulanxy&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romulanxy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
----
-
-### 🐦 Latest Tweet
-
-[![RomulanXY](https://img.shields.io/twitter/follow/romulanxy?style=social)](https://twitter.com/RomulanXY)
-
-## 🐦 Latest Tweet
-
-<a href="https://twitter.com/RomulanXY">
-  <img src="https://vercel-twitter-api.vercel.app/api?id=romulanxy&layout=wide&show_reply=off&show_retweet=off" alt="Latest Tweet" />
-</a>
