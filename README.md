@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm Oluwaseyi Obadeyi
+## I'm Seyi Obadeyi
 
 ### Senior Full-Stack Developer | DevOps Engineer | Cloud Enthusiast
 
@@ -10,7 +10,7 @@
 
 I am a passionate and dedicated Senior Full-Stack Developer with a strong background in web technologies, backend development, and cloud infrastructure. My expertise spans multiple programming languages, frameworks, and tools, allowing me to deliver robust and scalable solutions. The pursuit of clean code, efficient architecture, and seamless user experiences drives me. 
 
-- 🌍 **Location:** UTC+1 (Lagos, Nigeria)
+- 🌍 **Location:** UTC+1
 - 📧 **Email:** [obadeyi04@gmail.com](mailto:obadeyi04@gmail.com)
 - 📞 **Phone:** +234 (0) 810 022 8314
 - 💼 **LinkedIn:** [linkedin.com/in/seyiobadeyi](https://www.linkedin.com/in/seyiobadeyi)
@@ -31,6 +31,11 @@ I am a passionate and dedicated Senior Full-Stack Developer with a strong backgr
 ![Gatsby](https://img.shields.io/badge/gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) 
 ![Pinia](https://img.shields.io/badge/pinia-%233399ff.svg?style=for-the-badge&logo=pinia&logoColor=yellow) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![XML](https://img.shields.io/badge/XML-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-%232C0F39.svg?style=for-the-badge&logo=none&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-%23E5B92F.svg?style=for-the-badge&logo=none&logoColor=white)
+![Pug](https://img.shields.io/badge/Pug-%234A3F35.svg?style=for-the-badge&logo=none&logoColor=white)
+![shadcn](https://img.shields.io/badge/shadcn-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
@@ -45,6 +50,7 @@ I am a passionate and dedicated Senior Full-Stack Developer with a strong backgr
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![MERN](https://img.shields.io/badge/MERN-%234CAF50.svg?style=for-the-badge&logo=none&logoColor=white)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
@@ -66,6 +72,7 @@ I am a passionate and dedicated Senior Full-Stack Developer with a strong backgr
 ![gRPC](https://img.shields.io/badge/gRPC-%2300B3E3.svg?style=for-the-badge&logo=grpc&logoColor=white)
 ![Podman](https://img.shields.io/badge/podman-%23FF5733.svg?style=for-the-badge&logo=podman&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=red-hat-openshift&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-%23FF5A5F.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ### **Cloud & DevOps**
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
@@ -102,13 +109,13 @@ I am a passionate and dedicated Senior Full-Stack Developer with a strong backgr
 ![Android](https://img.shields.io/badge/android-%2323FF9900.svg?style=for-the-badge&logo=android&logoColor=white) 
 ![Xcode](https://img.shields.io/badge/xcode-%2323C5E1.svg?style=for-the-badge&logo=xcode&logoColor=white) 
 
-**Version Control & Collaboration:**
+### **Version Control & Collaboration**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-**Code Quality & Testing:**
+### **Code Quality & Testing**
 ![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
@@ -120,46 +127,35 @@ I am a passionate and dedicated Senior Full-Stack Developer with a strong backgr
 ![New Relic](https://img.shields.io/badge/New%20Relic-%2300C69A.svg?style=for-the-badge&logo=new-relic&logoColor=white)
 ![Datadog](https://img.shields.io/badge/datadog-%230064D6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-**Project Management:**
+### **Project Management**
 ![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
 ![Asana](https://img.shields.io/badge/asana-%232B2D72.svg?style=for-the-badge&logo=asana&logoColor=white)
 
-**Virtualization & Infrastructure:**
+### **Virtualization & Infrastructure**
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-%230FF9FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
 
-**Security:**
+### **Security**
 ![OWASP](https://img.shields.io/badge/owasp-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white)
 ![Nmap](https://img.shields.io/badge/nmap-%23703cdd.svg?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-%233e5f7f.svg?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
 
 ### **Other Skills**
-![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-%23FF5A5F.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Locust](https://img.shields.io/badge/Locust-%23000000.svg?style=for-the-badge&logo=locust&logoColor=white)
-
-### **Collaboration, Communication, Problem-solving**
-![Soft Skills](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
-
-### **Adaptability, Creativity, Attention to Detail**
-![Soft Skills](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
-
-### **Time Management, Teamwork, Leadership**
-![Soft Skills](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
-
-### **Logging, Scalability, Security, Automation**
+![Collaboration](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Communication](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Problem-solving](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Adaptability](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Creativity](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Attention to Detail](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Time Management](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Teamwork](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Leadership](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
 ![Logging](https://img.shields.io/badge/Logging-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
 ![Scalability](https://img.shields.io/badge/Scalability-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-%23111.svg?style=for-the-badge&logo=none&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
-
-### **XML, YAML, EJS, Pug, Ionic, Material UI, MERN, shadcn**
-- ![XML](https://img.shields.io/badge/XML-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
-- ![YAML](https://img.shields.io/badge/YAML-%232C0F39.svg?style=for-the-badge&logo=none&logoColor=white)
-- ![EJS](https://img.shields.io/badge/EJS-%23E5B92F.svg?style=for-the-badge&logo=none&logoColor=white)
-- ![Pug](https://img.shields.io/badge/Pug-%234A3F35.svg?style=for-the-badge&logo=none&logoColor=white)
-- ![MERN](https://img.shields.io/badge/MERN-%234CAF50.svg?style=for-the-badge&logo=none&logoColor=white)
-- ![shadcn](https://img.shields.io/badge/shadcn-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
 
 ---
 
@@ -173,7 +169,7 @@ I’m currently working on an **online marketplace** project that aims to revolu
 
 Let's discuss how we can collaborate on exciting projects or simply have a chat about the latest in tech. Feel free to reach out to me through any of the following:
 
-- **Twitter:** [@RomulanXY](https://twitter.com/RomulanXY)
+- **X (formerly Twitter):** [@RomulanXY](https://x.com/RomulanXY)
 - **Email:** [obadeyi04@gmail.com](mailto:obadeyi04@gmail.com)
 
 ---
@@ -186,9 +182,8 @@ Let's discuss how we can collaborate on exciting projects or simply have a chat 
 
 ### 💻 GitHub Stats
 
-Uncomment to enable GitHub Stats
-![Oluwaseyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulanxy&show_icons=true&hide_border=true)
-![Oluwaseyi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romulanxy&theme=dark&hide_border=false)
+![Seyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulanxy&show_icons=true&hide_border=true)
+![Seyi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romulanxy&theme=dark&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romulanxy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
