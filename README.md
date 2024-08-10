@@ -34,6 +34,8 @@ I am a passionate and dedicated Senior Full-Stack Developer with a strong backgr
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Ant Design](https://img.shields.io/badge/Ant%20Design-%230170FE.svg?style=for-the-badge&logo=ant-design&logoColor=white)
+![Material UI](https://img.shields.io/badge/material%20ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 
 ### **Backend Development**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -59,6 +61,11 @@ I am a passionate and dedicated Senior Full-Stack Developer with a strong backgr
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white) 
 ![Argo CD](https://img.shields.io/badge/argo-cd-%23F16061.svg?style=for-the-badge&logo=argo&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-%2300B3E3.svg?style=for-the-badge&logo=grpc&logoColor=white)
+![Podman](https://img.shields.io/badge/podman-%23FF5733.svg?style=for-the-badge&logo=podman&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-%23EE0000.svg?style=for-the-badge&logo=red-hat-openshift&logoColor=white)
 
 ### **Cloud & DevOps**
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
@@ -71,6 +78,9 @@ I am a passionate and dedicated Senior Full-Stack Developer with a strong backgr
 ![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white) 
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23FFD700.svg?style=for-the-badge&logo=ci%2Fcd&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circleci-%23000000.svg?style=for-the-badge&logo=circleci&logoColor=white)
+![TravisCI](https://img.shields.io/badge/travisci-%23E53431.svg?style=for-the-badge&logo=travis-ci&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-%23007ACC.svg?style=for-the-badge&logo=azure-pipelines&logoColor=white)
 
 ### **Deployment Platforms**
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
@@ -81,13 +91,9 @@ I am a passionate and dedicated Senior Full-Stack Developer with a strong backgr
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
-
-### **Testing**
-![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
-![Mocha](https://img.shields.io/badge/mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white)
-![Chai](https://img.shields.io/badge/chai-%23F7D07A.svg?style=for-the-badge&logo=chai&logoColor=white)
-![Cypress](https://img.shields.io/badge/cypress-%234EAA61.svg?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![pnpm](https://img.shields.io/badge/pnpm-%232C8EBB.svg?style=for-the-badge&logo=pnpm&logoColor=white) 
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![bun](https://img.shields.io/badge/bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) 
 
 ### **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
@@ -96,13 +102,64 @@ I am a passionate and dedicated Senior Full-Stack Developer with a strong backgr
 ![Android](https://img.shields.io/badge/android-%2323FF9900.svg?style=for-the-badge&logo=android&logoColor=white) 
 ![Xcode](https://img.shields.io/badge/xcode-%2323C5E1.svg?style=for-the-badge&logo=xcode&logoColor=white) 
 
+**Version Control & Collaboration:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+
+**Code Quality & Testing:**
+![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/chai-%23F7D07A.svg?style=for-the-badge&logo=chai&logoColor=white)
+![Cypress](https://img.shields.io/badge/cypress-%234EAA61.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-%2300C69A.svg?style=for-the-badge&logo=new-relic&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%230064D6.svg?style=for-the-badge&logo=datadog&logoColor=white)
+
+**Project Management:**
+![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
+![Asana](https://img.shields.io/badge/asana-%232B2D72.svg?style=for-the-badge&logo=asana&logoColor=white)
+
+**Virtualization & Infrastructure:**
+![VirtualBox](https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-%230FF9FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
+
+**Security:**
+![OWASP](https://img.shields.io/badge/owasp-%23000000.svg?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/nmap-%23703cdd.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%233e5f7f.svg?style=for-the-badge&logo=metasploit&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+
 ### **Other Skills**
-- Load Testing, Performance Testing
-- Collaboration, Communication, Problem-solving
-- Adaptability, Creativity, Attention to Detail
-- Time Management, Teamwork, Leadership
-- Logging, Scalability, Security, Automation
-- XML, YAML, EJS, Pug, Ionic, Material UI, MERN
+![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-%23FF5A5F.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-%23000000.svg?style=for-the-badge&logo=locust&logoColor=white)
+
+### **Collaboration, Communication, Problem-solving**
+![Soft Skills](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+
+### **Adaptability, Creativity, Attention to Detail**
+![Soft Skills](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+
+### **Time Management, Teamwork, Leadership**
+![Soft Skills](https://img.shields.io/badge/Soft%20Skills-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+
+### **Logging, Scalability, Security, Automation**
+![Logging](https://img.shields.io/badge/Logging-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Scalability](https://img.shields.io/badge/Scalability-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+![Security](https://img.shields.io/badge/Security-%23111.svg?style=for-the-badge&logo=none&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+
+### **XML, YAML, EJS, Pug, Ionic, Material UI, MERN, shadcn**
+- ![XML](https://img.shields.io/badge/XML-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
+- ![YAML](https://img.shields.io/badge/YAML-%232C0F39.svg?style=for-the-badge&logo=none&logoColor=white)
+- ![EJS](https://img.shields.io/badge/EJS-%23E5B92F.svg?style=for-the-badge&logo=none&logoColor=white)
+- ![Pug](https://img.shields.io/badge/Pug-%234A3F35.svg?style=for-the-badge&logo=none&logoColor=white)
+- ![MERN](https://img.shields.io/badge/MERN-%234CAF50.svg?style=for-the-badge&logo=none&logoColor=white)
+- ![shadcn](https://img.shields.io/badge/shadcn-%23000000.svg?style=for-the-badge&logo=none&logoColor=white)
 
 ---
 
