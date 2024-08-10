@@ -191,4 +191,8 @@ Let's discuss how we can collaborate on exciting projects or simply have a chat 
 
 ### 🐦 Latest Tweet
 
-[![](https://gtce.itsvg.in/api?username=romulanxy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![RomulanXY](https://img.shields.io/twitter/follow/romulanxy?style=social)](https://twitter.com/RomulanXY)
+
+<a href="https://twitter.com/RomulanXY">
+  <img src="https://github-readme-twitter.gazf.vercel.app/api?id=romulanxy&layout=wide&show_reply=off&show_retweet=off" alt="Latest Tweet" />
+</a>
