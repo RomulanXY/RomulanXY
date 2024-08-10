@@ -1,43 +1,142 @@
-### Hi there 👋
+# Hi there 👋
 
-- 👋 Hi, I'm Oluwaseyi Obadeyi
-- ✍ I use
-  - JavaScript/TypeScript
-  - React/Next.js
-  - Vue/Nuxt.js
-  - Node.js (Express)
-  - Python (Django)
-  - PHP (Laravel/WordPress)
-  - Linux
-  - Git
-- Extras
+## I'm Oluwaseyi Obadeyi
 
-  - MongoDB
-  - MySQL/PostgreSQL
-  - Firebase
-  - Kubernetes
-  - Docker
+### Senior Full-Stack Developer | DevOps Engineer | Cloud Enthusiast
 
-- 🔭 I’m currently working on an online marketplace.
-- 👯 Send an email. Let's have a chat about projects.
-- 📫 How to reach me:
-  - Twitter : https://twitter.com/RomulanXY
-  - Email : obadeyi04@gmail.com
-- ⚡ Fun fact:
+---
 
-  - hobby: coding, reading, photography
+### About Me
 
-  # 💻 Tech Stack:
+I am a passionate and dedicated Senior Full-Stack Developer with a strong background in web technologies, backend development, and cloud infrastructure. My expertise spans multiple programming languages, frameworks, and tools, allowing me to deliver robust and scalable solutions. The pursuit of clean code, efficient architecture, and seamless user experiences drives me. 
 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+- 🌍 **Location:** UTC+1 (Lagos, Nigeria)
+- 📧 **Email:** [obadeyi04@gmail.com](mailto:obadeyi04@gmail.com)
+- 📞 **Phone:** +234 (0) 810 022 8314
+- 💼 **LinkedIn:** [linkedin.com/in/seyiobadeyi](https://www.linkedin.com/in/seyiobadeyi)
+- 💻 **GitHub:** [github.com/romulanxy](https://github.com/romulanxy)
 
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sakigo9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sakigo9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sakigo9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+---
 
-## 🐦 Latest Tweet
+### 🛠️ Tech Stack
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D) 
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next-dot-js&logoColor=white) 
+![Nuxt.js](https://img.shields.io/badge/nuxt.js-%2300C58E.svg?style=for-the-badge&logo=nuxt-dot-js&logoColor=white) 
+![Gatsby](https://img.shields.io/badge/gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) 
+![Pinia](https://img.shields.io/badge/pinia-%233399ff.svg?style=for-the-badge&logo=pinia&logoColor=yellow) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/romulanxy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+### **Backend Development**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![FastAPI](https://img.shields.io/badge/fastapi-%2300C58E.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) 
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 
-<!-- ![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true) -->
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![Firestore](https://img.shields.io/badge/firestore-%2339BE5.svg?style=for-the-badge&logo=firestore&logoColor=white)
+
+### **API & Tools**
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
+![Ansible](https://img.shields.io/badge/ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white) 
+![Argo CD](https://img.shields.io/badge/argo-cd-%23F16061.svg?style=for-the-badge&logo=argo&logoColor=white)
+
+### **Cloud & DevOps**
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C8EBB.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
+![Terraform](https://img.shields.io/badge/terraform-%2343CBB1.svg?style=for-the-badge&logo=terraform&logoColor=white) 
+![Helm](https://img.shields.io/badge/helm-%23008AD7.svg?style=for-the-badge&logo=helm&logoColor=white) 
+![Kustomize](https://img.shields.io/badge/kustomize-%2300C58E.svg?style=for-the-badge&logo=kustomize&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) 
+![Prometheus](https://img.shields.io/badge/prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white) 
+![CI/CD](https://img.shields.io/badge/CI%2FCD-%23FFD700.svg?style=for-the-badge&logo=ci%2Fcd&logoColor=white)
+
+### **Deployment Platforms**
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+
+### **Package Managers & Build Tools**
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+
+### **Testing**
+![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/chai-%23F7D07A.svg?style=for-the-badge&logo=chai&logoColor=white)
+![Cypress](https://img.shields.io/badge/cypress-%234EAA61.svg?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Ionic](https://img.shields.io/badge/ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white) 
+![Android](https://img.shields.io/badge/android-%2323FF9900.svg?style=for-the-badge&logo=android&logoColor=white) 
+![Xcode](https://img.shields.io/badge/xcode-%2323C5E1.svg?style=for-the-badge&logo=xcode&logoColor=white) 
+
+### **Other Skills**
+- Load Testing, Performance Testing
+- Collaboration, Communication, Problem-solving
+- Adaptability, Creativity, Attention to Detail
+- Time Management, Teamwork, Leadership
+- Logging, Scalability, Security, Automation
+- XML, YAML, EJS, Pug, Ionic, Material UI, MERN
+
+---
+
+### 🔭 Current Project
+
+I’m currently working on an **online marketplace** project that aims to revolutionize the way modern crafts and unique products are bought and sold online. The platform leverages cutting-edge technology to provide a seamless user experience.
+
+---
+
+### 📫 Get in Touch
+
+Let's discuss how we can collaborate on exciting projects or simply have a chat about the latest in tech. Feel free to reach out to me through any of the following:
+
+- **Twitter:** [@RomulanXY](https://twitter.com/RomulanXY)
+- **Email:** [obadeyi04@gmail.com](mailto:obadeyi04@gmail.com)
+
+---
+
+### ⚡ Fun Facts
+
+- **Hobbies:** Coding, Reading, Photography
+
+---
+
+### 💻 GitHub Stats
+
+Uncomment to enable GitHub Stats
+![Oluwaseyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=romulanxy&show_icons=true&hide_border=true)
+![Oluwaseyi's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=romulanxy&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romulanxy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+---
+
+### 🐦 Latest Tweet
+
+[![](https://gtce.itsvg.in/api?username=romulanxy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
